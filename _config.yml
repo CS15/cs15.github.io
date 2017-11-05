@@ -1,0 +1,19 @@
+# Site settings
+title: CS2015
+email: cs15@kluniversity.in
+description: "Course materials and notes for class CS2015 - KLUniversity"
+baseurl: ""
+url: "http://cs15.github.io"
+twitter_username: cs15
+github_username:  cs15
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
